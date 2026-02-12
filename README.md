@@ -1,9 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Shivaji kanse</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 <!-- <img align="right" alt="coding" width="400" src="https://www.google.com/search?sca_esv=ea71feca3064432b&rlz=1C1OZZY_enIN1137IN1137&sxsrf=ADLYWIJa29kQgHXmXNT0arOw4OscVE3vUQ:1732433035278&q=animated+coding+gif+for+github&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J7pRxUp2pI1mXV9fBsfh39JqJxzRlphkmT2MeVSzs3MQCUNkeUaVjRp3Bu8J5s0Uhth1kanxV3wwM-ZpLNQxev02eGZJXBT8zGqZr6c6yH2cVe_uA2xC9w3GYmt2KJTW-QrsBzNk7iG36xu7OAhHyxMvD4YLaICKTSUmBmrHtR-uobi8BA&sa=X&ved=2ahUKEwj7zqj9t_SJAxXKd2wGHXi_B1QQtKgLegQIGhAB&biw=1280&bih=593&dpr=1.5#vhid=bm-5ttG2JLMj3M&vssid=mosaic"> -->
 
-- 🌱 I’m currently learning **Express and sql**
 
 - 💬 Ask me about **web development and java**
 
